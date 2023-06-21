@@ -5,7 +5,7 @@
  *
  * Return: Always 0 (success)
  */
-int print_alpahabet_x10
+void print_alphabet(void);
 {
 	int i;
 	int j;
