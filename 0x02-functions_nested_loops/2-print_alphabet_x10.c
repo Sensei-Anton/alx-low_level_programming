@@ -4,7 +4,7 @@
  *
  * Return: Always 0 (success)
  */
-void print_alpahabet_x10(void);
+void print_alpahabet_x10(void)
 {
 	int i;
 	int j;
