@@ -1,8 +1,6 @@
 #include "main.h"
 /**
 * jack_bauer -  value of an integer.
-
-*
 * Return: The absolute value of n.
 */
 void jack_bauer(void)
